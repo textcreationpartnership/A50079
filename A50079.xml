@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise of the vertues and uses of several panacea's or most infallible remedies in physic. By James Massard one of the most ancientest doctors of the Colledge of Grenoble. Nov. 20th. 1685. This may be printed, Rob. Midgley.</title>
+            <author>Massard, Jaques.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50079</idno>
+            <idno type="STC">Wing M1027A</idno>
+            <idno type="STC">ESTC R221557</idno>
+            <idno type="EEBO-CITATION">99832855</idno>
+            <idno type="PROQUEST">99832855</idno>
+            <idno type="VID">37330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1782:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise of the vertues and uses of several panacea's or most infallible remedies in physic. By James Massard one of the most ancientest doctors of the Colledge of Grenoble. Nov. 20th. 1685. This may be printed, Rob. Midgley.</title>
+                  <author>Massard, Jaques.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author dwelling at present at Oliver Martinet a taylor, at the Kings Arms in New-Street near Covent Garden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Popular --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37330:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>REATISE OF THE VERTUES and USES OF SEVERAL PANACEA'S OR MOST Infallible Remedies IN PHYSIC.</p>
+            <p>By <hi>James Maſſard</hi> one of the moſt anci<g ref="char:EOLhyphen"/>enteſt Doctors of the Colledge of <hi>Grenoble.</hi>
+            </p>
+            <p>
+               <hi>Nov.</hi> 20th. 1685. <hi>This may be Printed,</hi> Rob. Midgley.</p>
+            <p>
+               <hi>London,</hi> Printed for the Author dwelling at preſent at <hi>Oliver Martinet</hi> a Taylor, at the <hi>Kings Arms</hi> in <hi>New-Street</hi> near <hi>Covent Garden,</hi> 1685.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:37330:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>I</hi> Have formerly publiſh'd a Diſcourſe touching <hi>Panacea's,</hi> or the chief Re<g ref="char:EOLhyphen"/>medies in Phyſic: Thoſe that wou'd know the Vertues of 'em muſt read that Treatiſe; the matter is important, and therein clearly explicated.</p>
+            <p>And Mr. <hi>Blegny</hi>'s Journal of Phyſic for the Month of <hi>Auguſt 1681, Pag. 378.</hi> gives a full and advantagious account of the aforeſaid Book.</p>
+            <p>Alſo in his Journals of Phyſic for the following months, he gives a deſcription of the two Treatiſes which I publiſh'd one concerning the Venerial Diſtemper, and the other of Fevers.</p>
+            <p>And all theſe Remedies are of ſuch vertue that the ſick are ſoon enabled by 'em to walk abroad about their affairs.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:37330:2"/>
+            <head>
+               <hi>CHAP. I.</hi> The Vertue of the <hi>Panaceas</hi> or <g ref="char:V">Ʋ</g>niverſal Remedies.</head>
+            <p>THE <hi>Panacea's</hi> are the greateſt and moſt infallible remedies in Phyſic; they cauſe no loathings, are neceſſary not only to ſick people, but to thoſe that are in perfect health for prevention of diſtempers, and they never do hurt: they heal moſt Diſ<g ref="char:EOLhyphen"/>eaſes which ſeem incurable, and make o<g ref="char:EOLhyphen"/>ther Remedies efficacious.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>
+               <hi>CHAP. II.</hi> The vertues and uſe of potable Gold.</head>
+            <p>THIS drink is of liquid Gold, of the colour of fine Gold, it is of a fine ſcent, agreeable taſte, and rejoyceth the heart as ſoon as 'tis taken.</p>
+            <p>
+               <pb n="2" facs="tcp:37330:3"/>
+This potable Gold is ſo perfectly diſ<g ref="char:EOLhyphen"/>ſolved, that it cannot be any more reduc<g ref="char:EOLhyphen"/>ed into a body, and therefore eaſily mixes with the Spirits, penetrates all digeſti<g ref="char:EOLhyphen"/>ons, and ſo communicates with ſpeed it's rare Vertues.</p>
+            <p>The potable Gold is a rare Divine <hi>Pa<g ref="char:EOLhyphen"/>nacea,</hi> helping all natures in every diſtem<g ref="char:EOLhyphen"/>per, preſerving health, keeping off the infirmity of old age, cures Fevers, and inflammations, eaſes pains, calms nature regulates all her motions, and brings to her aſſiſtance new and prevailing forces, Diſſipating the very cauſe of diſtempers, and driving 'em out by inſenſible tranſpi<g ref="char:EOLhyphen"/>rations, removing the indiſpoſitions of the parts, and happily reſtoring health and vigor.</p>
+            <p>Fifteen or twenty drops of this liquor of Gold is enough, taken in a Spoon with a little good Wine, or Cordial water at any time, even at Meals, twice or thrice in a day; a man needs no direction or precaution in the matter, for this Reme<g ref="char:EOLhyphen"/>dy
+<pb n="3" facs="tcp:37330:3"/>heals without any ſenſible evacuation.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>
+               <hi>CHAP. III.</hi> The Vertues of the great <hi>Panacea.</hi>
+            </head>
+            <p>WANT of Tranſpiration being the general cauſe of all diſtem<g ref="char:EOLhyphen"/>pers, ſo the Remedies which in opening the Pores render the body tranſpirable, are univerſal Remedies for their Cure.</p>
+            <p>The great <hi>Panacea</hi> is of an agreeable colour, having neither taſte nor ſmell, no nauſeous belches in the Stomach: It makes no ſenſible evacuation in healthy perſons, it puts the body into a gentle breathing, animating the Spirits, and thereby preſerving health and encreaſes ſtrength.</p>
+            <p>This <hi>Panacea</hi> heals the ſick, by opening all the paſſages of the body, in diſſolving the cauſes of the diſtemper, deſtroying it by making way for thoſe evacutions,
+<pb n="4" facs="tcp:37330:4"/>which nature requires, and at the ſame reducing 'em to order: In fine, by taking away the impure viſcuoſities and filth, which lies in the very ſubſtance of the parts, which are the roots whence diſ<g ref="char:EOLhyphen"/>eaſes Spring.</p>
+            <p>So likewiſe, does it infallibly cure all ſorts of Fevers, and Inflammations, as Pluriſies, Small Pox, Appoplexies, Head-Aches, pains in the Breaſt, all Conſumpti<g ref="char:EOLhyphen"/>ons, all ſounding Fits, Vomitings, Cho<g ref="char:EOLhyphen"/>lics, Gravel, Womens pains in Labour, Vapours, Suppreſſions of Monthly Efflu<g ref="char:EOLhyphen"/>viums, loſs of Blood, Coſtiveneſs, Griping in the Guts, paleneſs in the Countenance, cures Rheumatiſms, and is of rare ver<g ref="char:EOLhyphen"/>tue againſt the Gout.</p>
+            <p>Moreover, this Remedy heals all ſorts of Wounds which are not abſolute mor<g ref="char:EOLhyphen"/>tal, in ſpeedily ſtopping the Courſe of Blood, and diſſolving and emptying by inſenſible tranſpiration, and by Urine, or by Stools, the Blood which is extravaſed, and diffuſed, in what part ſoever of the
+<pb n="5" facs="tcp:37330:4"/>body it be, and likewiſe hindring in<g ref="char:EOLhyphen"/>flamations and Fevers, which often fol<g ref="char:EOLhyphen"/>low upon Wounds. In ſhort, by conſoli<g ref="char:EOLhyphen"/>dating immediately by a balſamic vertue all bruiſes inward or outward.</p>
+            <p>
+               <hi>Concerning the uſing of this Panacea.</hi>
+            </p>
+            <p>You<g ref="char:punc">▪</g> may take the weight of one or two drams in Powder at one time, or elſe made into Sugar Plums to the number of ten, at each time.</p>
+            <p>In violent Diſtempers, they are to be taken commonly twice a day, to wit, in the morning, after dinner, or at night. In long illneſs, it ſuffices to take 'em once a day.</p>
+            <p>This Powder is to be mixt in a Spoon with a little good Wine, or elſe take it in Sugar Plums, drink a Glaſs of good Wine after this remedy, and an hour after ſome good Broth, afterwards you may eat as at other times, if your illneſs be not very great.</p>
+            <p>But to keep the body open, boyl in Broth made of Veal, or the like, without,
+<pb n="6" facs="tcp:37330:5"/>Salt, or in water with a little Sugar, an ounce or an ounce and an half of good Tamarins with pot-herbs, during a quar<g ref="char:EOLhyphen"/>ter of an hour, after which ſtrain it with<g ref="char:EOLhyphen"/>out ſqueezing. This Broth is a little ſharp, and very agreeable to the taſte. Or elſe, take a Glyſter which is made of four or five ounces of the beſt <hi>Caſſia,</hi> taken out of the ſtick, with as much Honey, boyl them in a ſufficient quantity of ordinary deco<g ref="char:EOLhyphen"/>ction, for a quarter of an hour: After<g ref="char:EOLhyphen"/>wards ſtrain this before you take it, it re<g ref="char:EOLhyphen"/>freſhes, it purges ſufficiently, and leaves the body open.</p>
+            <p>As to the manner of Diet, there is no need of much ſcrupuloſity, 'tis ſuffici<g ref="char:EOLhyphen"/>ent if one avoids, all kinds of exceſs. As this <hi>Panacea</hi> frees nature, regulates her motions, and turns all food into good nouriſhment: ſo one may without the leaſt hurt in uſing this remedy follow ones own inclinations in eating and drinking what we pleaſe, for as much as nature be<g ref="char:EOLhyphen"/>ing aſſiſted with proper remedies, has no irregular deſires.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="7" facs="tcp:37330:5"/>
+            <head>
+               <hi>CHAP. IV.</hi> Vertues, and uſe of Flowers of Silver.</head>
+            <p>THE Flowers of Silver are pleaſant to behold, and agreeable to take. This <hi>Panacea</hi> of Silver is diaphoretic, and fe<g ref="char:EOLhyphen"/>brefuge, it cleans the Organs of the body, opens her paſſages, purifies and renews the blood ſweetens the humours, appeaſes the inflammations, and rectifie all digeſti<g ref="char:EOLhyphen"/>ons. And therefore this <hi>Panacea</hi> extin<g ref="char:EOLhyphen"/>guiſhes Fevers, as well intermitting as Hectic, and continual ones, and cures moſt inveterate diſtempers, without any ſenſi<g ref="char:EOLhyphen"/>ble evacuation.</p>
+            <p>A doſe of this remedy conſiſts of thirty or forty Grains, it may be taken at any time but at Meals.</p>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="8" facs="tcp:37330:6"/>
+            <head>
+               <hi>CHAP. V.</hi> The Vertues of the aperitive Panacea.</head>
+            <p>THE obſtruction of the Entrails being the uſual cauſe of long illneſſes, ſo the aperitive <hi>Panacea</hi>'s are univerſal Reme<g ref="char:EOLhyphen"/>dies, for the cure of inveterate maladies.</p>
+            <p>And indeed experience ſhews us, that opening Pills cure the pains and giddineſs in the head, a weak digeſtion, and weak<g ref="char:EOLhyphen"/>neſs of the ſtomach, ſhortneſs of breath, and hypocondraic indiſpoſitions, and all other melancholly diſtempers, the Sympa<g ref="char:EOLhyphen"/>thetic Epilepſie which is the commoneſt, the Scurvy, Jaundice, pale colours of Mai<g ref="char:EOLhyphen"/>dens, the Dropſie, the ſuppreſſion of the monthly Courſes, the Whites, fits of the Mother, the Copilations, Coſtiveneſs, and obſtructions of the Bowels.</p>
+            <p>
+               <hi>Of the uſe of the aperitive Panacea.</hi>
+            </p>
+            <p>Take in the morning ſeven or eight
+<pb n="9" facs="tcp:37330:6"/>little Pills, or aperitive Confections, in a Wafer, or in the yolk of an Egg, or in a preſerved Cherry without the ſtone, drink immediately after this Re<g ref="char:EOLhyphen"/>medy a little good Wine, and an hour af<g ref="char:EOLhyphen"/>ter drink ſome Broth. Theſe pills looſe the body over night, and keeps it always open.</p>
+            <p>You muſt take for the cure of theſe a<g ref="char:EOLhyphen"/>bove-mention'd diſtempers for fifteen days together, or three weeks every other morning, ſometimes ſeven or eight of theſe aperitive pills, ſometimes the weight of a dram and an half of the great <hi>Panacea</hi> above-mention'd, drinking im<g ref="char:EOLhyphen"/>mediately after theſe Remedies a little good Wine, and ſuping an hour after ſome Broth, or two Diſhes of Coffee before breakfaſt.</p>
+            <p>Whilſt you are in this Courſe of Phy<g ref="char:EOLhyphen"/>ſic, you ſhou'd eat good wholſome Meats, and ſuch as are of eaſie digeſtion, with<g ref="char:EOLhyphen"/>out interrupting your ordinary imploy<g ref="char:EOLhyphen"/>ments: To prevent a relapſe, take for
+<pb n="10" facs="tcp:37330:7"/>ſome Months all the fifteen days two or three doſes of theſe Remedies.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>
+               <hi>CHAP. VII.</hi> Of the Vertues of the precipitate of <hi>Paracelſus.</hi>
+            </head>
+            <p>THE precipitate <hi>Mercury</hi> of <hi>Paracelſus,</hi> purifies and renovates ſo efficaciouſly the whole body, that it heals all ſorts of Ulcers and Scabs, and amongſt others the venerial one, which is nothing elſe but a peſtilential Scab, brought from the <hi>Indies.</hi> Experience ſhews that thoſe who are af<g ref="char:EOLhyphen"/>flicted with the moſt inveterate venerial diſtempers, are perfectly cured with this Remedy.</p>
+            <p>
+               <hi>Concerning the uſe of the precipitate of</hi> Paracelſus, <hi>for the cure of the Venerial diſtempers:</hi>
+            </p>
+            <p>Take every morning during a month, ten or twelve Grains of this Precipitate made into a Pill, mix with it ſome kind of Conſerve; drink immediately after
+<pb n="11" facs="tcp:37330:7"/>a glaſs of good Wine, and within an hour ſome Broth made of Veal, in which muſt be boyl'd an ounce and an half of good Tamarins, to keep the body open.</p>
+            <p>Althò this Remedy requires no farther direction than that of eating wholeſome Meats, ſuch as are in common uſe, and does not oblige a man to leave off any bu<g ref="char:EOLhyphen"/>ſineſs, yet does it procure ſo ſound a con<g ref="char:EOLhyphen"/>ſtitution of body, that 'tis experienc'd, a man finds himſelf more healthful now than he was before his illneſs.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>
+               <hi>CHAP. VII.</hi> Vertues and uſe of the refreſhing <hi>Panacea.</hi>
+            </head>
+            <p>A Good colour being one of the Signs of health, every body deſires ſuch refreſhments, yet few perſons know which are the true ones. Cold things often heats us, and there are corroſives which do much refreſh us. This appears in the u<g ref="char:EOLhyphen"/>ſing
+<pb n="12" facs="tcp:37330:8"/>of water, which cauſes a burning Fever in thoſe who drink of it, when they are hot, becauſe it then congeals the blood, and hinders tranſpiration. On the contrary Spirit of Sulphur, which is ex<g ref="char:EOLhyphen"/>treamly corroſive and vitriolic, mightily refreſhes being taken in broth, or an ope<g ref="char:EOLhyphen"/>ning drink, becauſe it ſweetens the acri<g ref="char:EOLhyphen"/>monial juice of the body. It makes an a<g ref="char:EOLhyphen"/>greeable Salt to the taſte, which being without the corroſion of the Spirit of Sulphur, much refreſhes all the Bowels being taken in Broth.</p>
+            <p>One may uſe of this Salt, during the time or after the uſe of other Remedies, to pro<g ref="char:EOLhyphen"/>cure by this means a greater refreſhment.</p>
+            <p>During the uſe of theſe <hi>Panacea</hi>'s, you may purge your ſelf once or twice, with the following remedy; Take two drams of good Rhubarb cut ſmall, half an ounce of Tamarins, half a dram of Corriander, an ounce and an half of the fineſt <hi>Mannaha</hi> Make all of it boyl ſome time in Pullet. broth, or in two Glaſſes of decoction of
+<pb n="13" facs="tcp:37330:8"/>Liquoriſh, and let it ſtand ſoaking all night on the hot aſhes. The next morn<g ref="char:EOLhyphen"/>ing ſtrain it and then take it.</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>
+               <hi>CHAP. VIII.</hi> For hollow Teeth.</head>
+            <p>HOllow Teeth do much pain ſome people, who knowing no Remedy, are at laſt conſtrain'd to pull them out, tho they may be made well by putting in a little grain in the hollow Tooth, which perfectly cleaning it, renders it thereby like the reſt.</p>
+         </div>
+         <div n="9" type="chapter">
+            <head>
+               <hi>CHAP. IX.</hi> A Plaiſter for the healing of Wounds, <g ref="char:V">Ʋ</g>l<g ref="char:EOLhyphen"/>cers and Swellings.</head>
+            <p>THIS Plaiſter is good for the curing all external hurts: it conſolidates wounds, and draws out all venemous hu<g ref="char:EOLhyphen"/>mours
+<pb n="14" facs="tcp:37330:9"/>which may hinder the re-union of the parts, and corrupt them, it alſo ex<g ref="char:EOLhyphen"/>tinguiſhes the malignity of Ulcers, and effectually ſolves all ſwellings.</p>
+         </div>
+         <div n="11" type="chapter">
+            <head>
+               <hi>CHAP. XI.</hi> An Oyntment for the inflammation of the Eyes.</head>
+            <p>THE inflamations of the Eyes are ſometimes of that nature, as inſtead of being bettered by ordinary Remedies are made worſe. This Oyntment for the Eyes, leſſens immediately their pain, their inflamation, fieryneſs, and cures them in a ſhort time.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37330:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
